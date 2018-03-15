@@ -37,7 +37,7 @@ body {
 
 /* Portrait layout (default) */
 .app {
-    
+
     position:absolute;             /* position in the center of the screen */
     left:50%;
     top:50%;
@@ -102,4 +102,9 @@ h1 {
 .blink {
     animation:fade 3000ms infinite;
     -webkit-animation:fade 3000ms infinite;
+}
+#boton{
+  margin: 12px;
+  text-align: center;
+
 }
